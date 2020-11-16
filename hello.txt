@@ -1,2 +1,3 @@
 Hello git
 Hello git again
+Some new string
